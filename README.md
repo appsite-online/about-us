@@ -29,5 +29,3 @@ if (you === awesome && eagerToExplore) {
 }
 Arr matey! Let's code and conquer the financial seas together. Yo-ho-ho and a pull request or two! ☠️⚓️
 
-www.appsite.online
-
